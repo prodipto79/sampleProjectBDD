@@ -17,3 +17,5 @@ Feature: Login Functionality
       |User  |Password|
       |Credit Card User|Password1|
       |Debit Card User|Password2|
+      |Debit Card User|Password2|
+
