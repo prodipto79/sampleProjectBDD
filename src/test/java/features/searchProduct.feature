@@ -8,3 +8,4 @@ Feature: Search and Place Order for Product
     |name|
     |Tom |
     |Beet|
+
