@@ -32,6 +32,7 @@ public class FirstTest {
     public void logOffButtonDisplayed() {
         System.out.println("Log off button displayed");
         System.out.println("Log off button not displayed - user1");
+        System.out.println("Log off button displayed for main");
     }
 
     @When("^user login into application as user (.+) and password as (.+)$")
